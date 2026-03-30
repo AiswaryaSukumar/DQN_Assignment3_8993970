@@ -113,7 +113,7 @@ DQN_Assignment3/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/[your-username]/DQN_Assignment3.git
+git clone " https://github.com/AiswaryaSukumar/DQN_Assignment3_8993970.git "
 cd DQN_Assignment3
 ```
 
